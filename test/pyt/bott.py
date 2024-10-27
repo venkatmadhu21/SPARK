@@ -7,7 +7,7 @@ import time
 from groq import Groq
 
 # Initialize the Groq client with your API key
-api_key = "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"
+api_key = " "
 client = Groq(api_key=api_key)
 
 # Function to recognize speech
